@@ -2,8 +2,12 @@
 SECP 1513 Section 5 
 <p align="center">
     <img src="https://github.com/mavis-hql/PC-Assemble/assets/151108692/ffe1afb0-22d1-475e-a1ce-40f9d0f2b9b9" width="300">
-<hr align="center"> My group member
-<hr align="center"> <img src="https://github.com/mavis-hql/PC-Assemble/assets/151108692/27f25b6b-4756-4629-95c1-61a1e4c3002f" width="300">
+</p>
+<p align="center"> 
+    My group member
+</p>
+<p align="center">
+    <img src="https://github.com/mavis-hql/PC-Assemble/assets/151108692/27f25b6b-4756-4629-95c1-61a1e4c3002f" width="300">
 </p>
 
 ### SUMMARY
